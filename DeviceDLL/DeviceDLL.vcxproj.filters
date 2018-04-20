@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="00.ExportFunc">
+      <UniqueIdentifier>{c40dd35d-195c-46c3-8214-d27c832dd42e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Device">
+      <UniqueIdentifier>{89607a32-ba9a-49f9-82c4-7924332d5ebb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.KeyInputMgr">
+      <UniqueIdentifier>{ce5f4fa0-c964-4f20-91d1-ea9feddc5ccf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Timer">
+      <UniqueIdentifier>{a0b22ec3-d667-4362-8aca-bb4e8beb894e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99.Headers">
+      <UniqueIdentifier>{7557ec7e-57de-439c-91e1-daaa42998bc9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DeviceDef.h">
+      <Filter>99.Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DeviceFunc.h">
+      <Filter>00.ExportFunc</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyInputMgr.h">
+      <Filter>02.KeyInputMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Device.h">
+      <Filter>01.Device</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>03.Timer</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DeviceFunc.cpp">
+      <Filter>00.ExportFunc</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyInputMgr.cpp">
+      <Filter>02.KeyInputMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Device.cpp">
+      <Filter>01.Device</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>03.Timer</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
