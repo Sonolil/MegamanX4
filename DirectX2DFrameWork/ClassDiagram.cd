@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CMainGame" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAACAAAAAAAAAAAAIBAAABGAAAA=</HashCode>
+      <FileName>MainGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSceneObj" Collapsed="true">
+    <Position X="1.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAQAAAAAAAACAAAAAIAAAAFAAABCAAAA=</HashCode>
+      <FileName>SceneObj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLogo" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAgAAAAAAAAAAABAAABCAAIA=</HashCode>
+      <FileName>Logo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CStage" Collapsed="true">
+    <Position X="2.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAEDAAABCAAAA=</HashCode>
+      <FileName>Stage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CObj" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAQAAAAAAgAQAAAAAAAAAAAAAAAEAQCBAgABCABBA=</HashCode>
+      <FileName>Obj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLogoDynamic" Collapsed="true">
+    <Position X="3.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAABAAADCAABQ=</HashCode>
+      <FileName>LogoDynamic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLogoStatic" Collapsed="true">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAQCAAAAAAAAAAAAAAAAAABAAABCAABA=</HashCode>
+      <FileName>LogoStatic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLogoBackGround" Collapsed="true">
+    <Position X="5.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAQAAgAAAABAAABCAABA=</HashCode>
+      <FileName>LogoBackGround.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CStageDynamic" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StageDynamic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CStageStatic" Collapsed="true">
+    <Position X="11.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>StageStatic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTextureMgr" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAgAIAAAAAAAAAAAAAAAAAKhAAAAA=</HashCode>
+      <FileName>TextureMgr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTexture" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACEAAAAAAAAAAAAIAAAAAAAAAAAAAAAhAAAAA=</HashCode>
+      <FileName>Texture.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSingleTexture" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAKAgAAAAAAAAACAAAAAAAAAAAAAAAAAhAAAAA=</HashCode>
+      <FileName>SingleTexture.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMultiTexture" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAgAAAAAAAAAAAAAAAAAAAAhAJAAA=</HashCode>
+      <FileName>MultiTexture.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSceneMgr" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAIAIAAAAAAAAAAAAAABIAABCIAAA=</HashCode>
+      <FileName>SceneMgr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPrototype" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAQAAABAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Prototype.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CObjProto" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgCAAAAAAAAAIAQAAAAAAAAIAAAAAAABAAAAA=</HashCode>
+      <FileName>ObjProto.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLogoObjProto" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAgAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LogoObjProto.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
