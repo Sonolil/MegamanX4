@@ -1,5 +1,7 @@
 # MegamanX4
-MegamanX4 (Zero) Project Code
+
+
+MegamanX4 (Zero) Project Code made by Kyung Joon Cho
 
 Again, same as 'SRPG' - no code comments available.
 
