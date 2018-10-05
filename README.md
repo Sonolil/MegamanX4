@@ -1,4 +1,4 @@
-# MegamanX4
+# Zero (MegamanX4)
 
 
 Zero (MegamanX4) Project Code made by Kyung Joon Cho
